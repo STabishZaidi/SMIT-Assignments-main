@@ -1,0 +1,301 @@
+1. What is HTML?
+a) HTML describes the structure of a webpage
+b) HTML is the standard markup language mainly used to create web pages
+c) HTML consists of a set of elements that helps the browser how to view the content
+d) All of the mentioned
+View Answer
+
+2. Who is the father of HTML?
+a) Rasmus Lerdorf
+b) Tim Berners-Lee
+c) Brendan Eich
+d) Sergey Brin
+View Answer
+
+3. HTML stands for __________
+a) HyperText Markup Language
+b) HyperText Machine Language
+c) HyperText Marking Language
+d) HighText Marking Language
+View Answer
+
+4. What is the correct syntax of doctype in HTML5?
+a) </doctype html>
+b) <doctype html>
+c) <doctype html!>
+d) <!doctype html>
+View Answer
+
+5. Which of the following is used to read an HTML page and render it?
+a) Web server
+b) Web network
+c) Web browser
+d) Web matrix
+View Answer
+
+advertisement
+ADVERTISEMENT
+
+ADVERTISEMENT
+6. Which of the following is not a difference between HTML and XHTML?
+a) Charset in both html and xhtml is “text/html”
+b) Tags and attributes are case-insensitive in HTML but not in XHTML
+c) Special characters must be escaped using character entities in XHTML unlike HTML
+d) Charset in html is “text/html” where as in xhtml it is “application/xml+xhtml”
+View Answer
+
+7. Which of the following tag is used for inserting the largest heading in HTML?
+a) head
+b) <h1>
+c) <h6>
+d) heading
+View Answer
+
+8. What is DOM in HTML?
+a) Language dependent application programming
+b) Hierarchy of objects in ASP.NET
+c) Application programming interface
+d) Convention for representing and interacting with objects in html documents
+View Answer
+
+9. In which part of the HTML metadata is contained?
+a) head tag
+b) title tag
+c) html tag
+d) body tag
+View Answer
+
+10. Which element is used to get highlighted text in HTML5?
+a) <u>
+b) <mark>
+c) <highlight>
+d) <b>
+View Answer
+
+11. Which of the following is not a HTML5 tag?
+a) <track>
+b) <video>
+c) <slider>
+d) <source>
+View Answer
+
+12. How do we write comments in HTML?
+a) </…….>
+b) <!……>
+c) </……/>
+d) <…….!>
+View Answer
+
+13. Which of the following elements in HTML5 defines video or movie content?
+a) <video>
+b) <movie>
+c) <audio>
+d) <media>
+View Answer
+
+14. Which of the following is not the element associated with the HTML table layout?
+a) alignment
+b) color
+c) size
+d) spanning
+View Answer
+
+15. Which element is used for or styling HTML5 layout?
+a) CSS
+b) jQuery
+c) JavaScript
+d) PHP
+View Answer
+
+16. Which HTML tag is used for making character appearance bold?
+a) <u>content</u>
+b) <b>content</b>
+c) <br>content</br>
+d) <i>content</i>
+View Answer
+
+17. Which HTML tag is used to insert an image?
+a) <img url=”htmllogo.jpg” />
+b) <img alt=”htmllogo.jpg” />
+c) <img src=”htmllogo.jpg” />
+d) <img link=”htmllogo.jpg” />
+View Answer
+
+18. HTML is a subset of ___________
+a) SGMT
+b) SGML
+c) SGME
+d) XHTML
+View Answer
+
+19. Which character is used to represent when a tag is closed in HTML?
+a) #
+b) !
+c) /
+d) \
+View Answer
+
+20. Which of the following HTML code will make an image clickable?
+a)
+
+<a href="https://www.sanfoundry.com/">Sanfoundry Home Page</a>
+b)
+
+<img src="https://www.sanfoundry.com/sanfoundry-logo">
+<a href="https://www.sanfoundry.com/">Sanfoundry  Home Page</a>
+</img>
+c)
+
+<a href="https://www.sanfoundry.com/">Sanfoundry Home Page</a>
+<img src="https://www.sanfoundry.com/sanfoundry-logo" />
+d)
+
+<a href="https://www.sanfoundry.com/"><img src="https://www.sanfoundry.com/sanfoundry-logo" /></a>
+View Answer  
+ 
+21. Among the following, which is the HTML paragraph tag?
+a) <p>
+b) <pre>
+c) <hr>
+d) <a>
+View Answer
+
+22. In HTML, which attribute is used to create a link that opens in a new window tab?
+a) src=”_blank”
+b) alt=”_blank”
+c) target=”_self”
+d) target=”_blank”
+View Answer
+
+23. Which HTML element is used for short quote?
+a) <em>
+b) <abbr>
+c) <q>
+d) <blockquote>
+View Answer
+
+24. Which of the following HTML tag is used to create an unordered list?
+a) <ol>
+b) <ul>
+c) <li>
+d) <ll>
+View Answer
+
+25. Which HTML element is used for abbreviation or acronym?
+a) <abbr>
+b) <blockquote>
+c) <q>
+d) <em>
+View Answer
+
+26. Which of the following HTML tag is used to add a row in a table?
+a) <th>
+b) <td>
+c) <tr>
+d) <tt>
+View Answer
+
+27. What is the work of <address> element in HTML5?
+a) contains IP address
+b) contains home address
+c) contains url
+d) contains contact details for author
+View Answer
+
+28. Which of the following tag is used to create a text area in HTML Form?
+a) <textarea> </textarea>
+b) <text></text>
+c) <input type=”text” />
+d) <input type=”textarea” />
+View Answer
+
+29. To show deleted text, which HTML element is used?
+a) <del>
+b) <em>
+c) <strong>
+d) <ins>
+View Answer
+
+30. What is the correct syntax of web address?
+a) port://domain.filenmae:path/scheme/prefix
+b) prefix://scheme.port:domain/filename/path
+c) path://prefix.port:domain/filename/scheme
+d) scheme://prefix.domain:port/path/filename
+View Answer
+
+31. Which tag is used to create a dropdown in HTML Form?
+a) <input>
+b) <select>
+c) <text>
+d) <textarea>
+View Answer
+
+32. Which tag is used to create a numbered list in HTML?
+a) <ol>
+b) <ul>
+c) <li>
+d) <ll>
+View Answer
+
+33. How to create a checkbox in HTML Form?
+a) <input type=”text”>
+b) <input type=”textarea”>
+c) <input type=”checkbox”>
+d) <input type=”button”>
+View Answer
+
+34. How to insert Hyperlink in HTML Page?
+a)
+
+<a href="https://www.sanfoundry.com/1000-html-questions-answers/">HTML MCQ</a>
+b)
+
+<a target="https://www.sanfoundry.com/1000-html-questions-answers/" HTML Quiz />
+c)
+
+<a src="https://www.sanfoundry.com/1000-html-questions-answers/">HTML Test</a>
+d)
+
+<a>https://www.sanfoundry.com/1000-html-questions-answers/</a>
+View Answer  
+ 
+35. Which of the following extension is used to save an HTML file?
+a) .hl
+b) .h
+c) .htl
+d) .html
+View Answer
+
+36. Which tag is used to create a blank line in HTML?
+a) <b>
+b) <br>
+c) <em>
+d) <a>
+View Answer
+
+37. Which HTML tag is used to convert the plain text into italic format?
+a) <b>
+b) <p>
+c) <i>
+d) <a>
+View Answer
+
+38. What is the use of <hr/> tag in HTML?
+a) For making content appearance italics
+b) To create vertical rule between sections
+c) To create a line break
+d) To create horizontal rule between sections
+View Answer
+
+39. Which attribute is not essential under <iframe>?
+a) frameborder
+b) width
+c) height
+d) src
+View Answer
+
+40. Which works similar to <b> element?
+a) <blockquote>
+b) <strong>
+c) <em>
+d) <i>
