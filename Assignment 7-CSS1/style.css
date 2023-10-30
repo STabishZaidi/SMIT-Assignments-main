@@ -1,0 +1,68 @@
+.body{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.box{
+    height: 88vh;
+    width: 550px;
+    text-align: center;
+   margin-top: 50px;
+ 
+}
+
+.image{
+    border-radius: 10px;
+    overflow: hidden;
+    height:82vh;
+    width: 550px;
+    position: absolute;
+    z-index: -100;
+   opacity: 0.7;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Alex Brush', cursive;
+}
+
+
+.text{
+     font-size:20px;
+    word-spacing: 6px;
+    font-family:"Dancing Script" ;
+}
+
+.text1 {
+    text-align: center;
+    font-size: medium;
+    font-style: inherit;
+    
+}
+.heading {
+    text-align: center;
+    font-size: medium;
+    font-style: bold;
+    
+    
+}
+.box1{
+    height: 88vh;
+    width: 550px;
+    text-align: center;
+   margin-top: 50px;
+ 
+}
+
+.img{
+    border-radius: 10px;
+    overflow: hidden;
+    height:82vh;
+    width: 550px;
+    position: absolute;
+    z-index: -100;
+   opacity: 0.7;
+}

@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    margin: 8px;
+}
+img {
+    height: 70%;
+    max-width: 70%;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+  }
+  
+  
