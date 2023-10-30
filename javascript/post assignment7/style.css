@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "YoungSerif";
+    src: url(Fonts/YoungSerif-Regular.ttf);
+
+}
+* {
+    font-family:YoungSerif ;
+}
+
+
+.navbar {
+   background-color: #D2E0FB !important; 
+   height: 80px;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color:#D2E0FB ;
+    border-color: #D2E0FB;
+}
+.btn-primary:active {
+    background-color: #D2E0FB !important;
+    border-color: #D2E0FB;
+}
+.text{
+    text-decoration:none;
+}
