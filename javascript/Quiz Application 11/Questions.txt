@@ -1,9 +1,145 @@
-1. What is HTML?
-a) HTML describes the structure of a webpage
-b) HTML is the standard markup language mainly used to create web pages
-c) HTML consists of a set of elements that helps the browser how to view the content
-d) All of the mentioned
-View Answer
+What is JavaScript?
+
+JavaScript is a programming language used for web development
+JavaScript is a type of coffee
+JavaScript is used for designing graphics
+JavaScript is a markup language*
+Which statement correctly defines a JavaScript variable?
+
+int x = 5;
+var x = 5;
+variable x = 5;
+let x = 5;*
+What is the purpose of the console.log() function in JavaScript?
+
+To prompt the user for input
+To display messages in the browser console*
+To create a pop-up dialog
+To perform mathematical calculations
+What is the output of 5 + '5' in JavaScript?
+
+10
+55*
+5
+"55"
+Which of the following is a correct way to comment in JavaScript?
+
+/* This is a comment */
+// This is a comment*
+<!-- This is a comment -->
+# This is a comment
+What is the primary purpose of the if statement in JavaScript?
+
+To declare a variable
+To create a function
+To loop through an array
+To make a decision or test a condition*
+Which symbol is used for strict equality in JavaScript?
+
+=
+==
+===*
+!=
+What does the DOM stand for in web development?
+
+Document Object Model*
+Domain Object Model
+Digital Object Model
+Dynamic Object Management
+How do you select an HTML element with the id attribute of "myElement" using JavaScript?
+
+getElementByClass("myElement")
+selectElement("myElement")
+getElementById("myElement")*
+selectById("myElement")
+What does the addEventListener method do in JavaScript?
+
+It adds two numbers together
+It includes an external JavaScript file
+It attaches an event handler to an HTML element*
+It creates a new HTML element
+Which function is used to convert a string to an integer in JavaScript?
+
+parseInt*
+toFloat
+convertToInt
+toInteger
+What is the purpose of the localStorage object in JavaScript?
+
+To create dynamic HTML content
+To store data in a user's web browser for future use*
+To style HTML elements
+To define variables in JavaScript
+Which of the following is a JavaScript framework or library for building user interfaces?
+
+Angular
+jQuery
+React*
+Bootstrap
+How do you declare a constant variable in JavaScript?
+
+let
+var
+const*
+const var
+What does AJAX stand for in web development?
+
+Asynchronous JavaScript and XML*
+Advanced JavaScript and XHTML
+Active Java and XML
+Automated JavaScript and XAML
+What is the purpose of the return statement in a JavaScript function?
+
+To display a message to the user
+To stop the function from executing
+To exit a loop
+To specify the value that the function should return when called*
+Which operator is used to concatenate strings in JavaScript?
+
++*
+-
+*
+/
+What does JSON stand for in JavaScript?
+
+JavaScript Object Notation*
+Java Serialized Object Notation
+JavaScript Organizational Notation
+JavaScript Standard Object Name
+How can you round a number to the nearest integer in JavaScript?
+
+ceil()
+round()*
+floor()
+trunc()
+What is the purpose of the for loop in JavaScript?
+
+To declare variables
+To create functions
+To perform a specific task a certain number of times*
+To write comments in code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is HTML?
+HTML describes the structure of a webpage
+HTML is the standard markup language mainly used to create web pages
+HTML consists of a set of elements that helps the browser how to view the content
+All of the mentioned
+
 
 2. Who is the father of HTML?
 a) Rasmus Lerdorf

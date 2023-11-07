@@ -1,0 +1,65 @@
+.btn-dashb {
+    /* Add your desired styles here */
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none; /* Remove underline for the link */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .btn-dashb:hover {
+    /* Define styles for when the button is hovered over */
+    background-color: #0056b3;
+  }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#question-container {
+    margin: 20px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#result {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#time {
+    font-weight: bold;
+}
