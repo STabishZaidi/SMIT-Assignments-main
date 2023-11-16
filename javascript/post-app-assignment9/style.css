@@ -28,3 +28,13 @@
 .text{
     text-decoration:none;
 }
+
+#exampleFormControlTextarea1 {
+    width: 505px;
+    height: 330px;
+}
+
+#exampleInputEmail1 {
+    width: 505px;
+    height: 40px;
+}

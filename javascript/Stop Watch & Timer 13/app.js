@@ -37,4 +37,15 @@ function reset(){
     getmili.innerHTML = miliseconds
     getsec.innerHTML = seconds
     getmin.innerHTML = minutes
+    location.reload()
+
 }
+
+
+
+
+// Premitive & Non Premitive (we will never change value of premitive values)
+
+/*  var str = "test";
+str[0] = "b";
+// console.log(str); */  

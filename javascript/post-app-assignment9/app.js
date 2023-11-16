@@ -18,7 +18,7 @@ function addpost(){
     
     '
 
-}
+
 var backgroundimage = ""
 function selectImage(src){
 console.log(src)
